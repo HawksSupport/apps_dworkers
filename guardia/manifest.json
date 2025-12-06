@@ -1,11 +1,11 @@
 ﻿{
     "apk":  {
                 "url":  "https://raw.githubusercontent.com/HawksSupport/apps_dworkers/main/guardia/Agente-dworkers-v1.0.6.apk",
-                "checksum":  "FF93ADB8C5A16A33AF800BFEF9B91D02A671CF239AE17FD72FB05B29BBCCAECE",
+                "checksum":  "D58304A8EF5CFC4A9BF054552E717A87D1BC8E256E849224BC460249E88272D1",
                 "file":  "Agente-dworkers-v1.0.6.apk"
             },
     "app":  {
-                "built":  "2025-12-06 13:16:38",
+                "built":  "2025-12-06 13:31:50",
                 "name":  "SafeGuard Agente",
                 "version":  {
                                 "code":  10006,
