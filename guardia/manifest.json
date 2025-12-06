@@ -1,13 +1,16 @@
-{
-    "name": "update.apk",
-    "size": 511771000,
-    "compressedSize": 1327288,
-    "app": {
-      "name": "Dworkers Agente",
-      "package": "com.hawkstec.app.demo",
-      "version": {
-        "code": 10006,
-        "name": "1.0.6"
-      }
-    }
-  }
+﻿{
+    "apk":  {
+                "url":  "https://raw.githubusercontent.com/HawksSupport/apps_dworkers/main/guardia/Agente-dworkers-v1.0.6.apk",
+                "checksum":  "246443C06560D229F63618432DB963CA295A0E9832D12C584F3A7FBD142BF383",
+                "file":  "Agente-dworkers-v1.0.6.apk"
+            },
+    "app":  {
+                "built":  "2025-12-06 12:26:21",
+                "name":  "SafeGuard Agente",
+                "version":  {
+                                "code":  10008,
+                                "name":  "1.0.6"
+                            },
+                "client":  "dworkers"
+            }
+}
