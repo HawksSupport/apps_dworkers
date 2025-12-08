@@ -1,15 +1,13 @@
 ﻿{
     "apk":  {
-                "url":  "https://raw.githubusercontent.com/HawksSupport/apps_dworkers/main/guardia/Agente-dworkers-v1.0.9.apk",
-                "checksum":  "F7D325A8B504FBE5E99090BBA71934850D4F4651D80A619B6248BD404AA77FDF",
-                "file":  "Agente-dworkers-v1.0.9.apk"
+                "url":  "https://raw.githubusercontent.com/HawksSupport/apps_dworkers/main/guardia/update.apk",
+                "checksum":  "D013521070D9BDE56BD3167D504EA16B6C23BC4F30BDC9210C904B2C3839FBAD",
+                "file":  "update.apk"
             },
     "app":  {
                 "client":  "dworkers",
-                "built":  "2025-12-07 21:25:18",
                 "name":  "SafeGuard Agente",
                 "version":  {
-                                "code":  10009,
                                 "name":  "1.0.9"
                             },
                 "package":  "com.hawkstec.app.demo"
