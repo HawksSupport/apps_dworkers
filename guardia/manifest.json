@@ -1,17 +1,15 @@
 ﻿{
-  "apk": {
-    "url": "https://raw.githubusercontent.com/HawksSupport/apps_dworkers/main/guardia/update.apk",
-    "checksum": "D013521070D9BDE56BD3167D504EA16B6C23BC4F30BDC9210C904B2C3839FBAD",
-    "file": "update.apk"
-  },
-  "app": {
-    "client": "dworkers",
-    "name": "SafeGuard Agente",
-    "package": "com.hawkstec.app.demo",
-    "version": {
-      "name": "1.0.9",
-      "code": 10009
-    },
-    "provider_authority": "com.hawkstec.app.demo.apkupdater.provider"
-  }
+    "apk":  {
+                "url":  "https://raw.githubusercontent.com/HawksSupport/apps_dworkers/main/guardia/update.apk",
+                "checksum":  "DEC01C13FFAEB53677D22441CC3121A380CD60FF524914E59C137F67B279FA1F",
+                "file":  "update.apk"
+            },
+    "app":  {
+                "client":  "dworkers",
+                "name":  "SafeGuard Agente",
+                "version":  {
+                                "name":  "1.0.6"
+                            },
+                "package":  "com.hawkstec.app.demo"
+            }
 }
