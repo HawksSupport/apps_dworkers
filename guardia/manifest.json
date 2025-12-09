@@ -1,14 +1,14 @@
 ﻿{
     "apk":  {
                 "url":  "https://raw.githubusercontent.com/HawksSupport/apps_dworkers/main/guardia/update.apk",
-                "checksum":  "72B1126DEC35333144968EB1EE3BA8532756E2018C801E6A06AE35DE1EB4270E",
+                "checksum":  "5FA27E7D56166D1164F2D5FE8C76558D53952412EDB9729FF0BF3AB042C799E0",
                 "file":  "update.apk"
             },
     "app":  {
                 "client":  "dworkers",
                 "name":  "SafeGuard Agente",
                 "version":  {
-                                "name":  "1.0.6"
+                                "name":  "1.0.5"
                             },
                 "package":  "com.hawkstec.app.demo"
             }
