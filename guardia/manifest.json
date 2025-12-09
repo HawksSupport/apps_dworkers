@@ -1,8 +1,8 @@
 ﻿{
     "apk":  {
-                "url":  "https://raw.githubusercontent.com/HawksSupport/apps_dworkers/main/guardia/update-release.apk",
-                "checksum":  "F26AAF7ABC71F7CA3FE4C87096D61EA7234BB0DCDDBE40289F9413AA6071B5FF",
-                "file":  "update-release.apk"
+                "url":  "https://raw.githubusercontent.com/HawksSupport/apps_dworkers/main/guardia/update.apk",
+                "checksum":  "5FA27E7D56166D1164F2D5FE8C76558D53952412EDB9729FF0BF3AB042C799E0",
+                "file":  "update.apk"
             },
     "app":  {
                 "client":  "dworkers",
